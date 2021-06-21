@@ -6,4 +6,4 @@
 
 ## Project
 
-### [01. Streaming Live Graph](https://github.com/naddongddong/Python-Django/tree/main/project/01.%20Streaming%20Live%20Graph)
+### [01. Streaming Live Graph](https://github.com/naddongddong/Python-Django/tree/main/project/01.Streaming%20Live%20Graph)
